@@ -45,4 +45,4 @@ $ terraform init
 $ terraform plan && terraform apply --auto-approve
 ```
 ### AWS Lambda function Result
-![lambda](https://github.com/nyinyisoepaing/terraform-lambda-python/blob/main/doc/result.gif))
+![lambda](https://raw.githubusercontent.com/nyinyisoepaing/terraform-lambda-python/main/doc/result.gif)
